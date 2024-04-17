@@ -9,3 +9,13 @@ This project will sharpen your skills on:
 - Setting threshold with date datatype
 - Interpreting insight from Visualization
 - Summarize data with mean and grouping
+
+2. ## [DATA SCIENCE FOR SOCIAL GOOD:CRIME STUDY](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/002_Data%20Science%20for%20Social%20Good-Crime%20Study)
+
+Use data science to catch criminals, plus find new ways to volunteer personal time for social good.
+
+This project will enhance your skill in :
+- Working with tidyverse, lubridate and ggmap library
+- Data Visualization
+- Aggregating with count
+- Thinking with your data
