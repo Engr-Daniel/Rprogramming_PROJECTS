@@ -1,6 +1,8 @@
 # DATA SCIENCE FOR SOCIAL GOOD:CRIME STUDY
 Use data science to catch criminals, plus find new ways to volunteer personal time for social good.
 
+![image](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/assets/103637488/6aabaa11-376a-4630-a357-95477e6fd8e0)
+
 ## Project Description
 Quantitative analyses can have a significant impact on initiating change within one's community. When analyzed responsibly, data can provide evidence to understand difficult social issues correctly. In this project, you will leverage publicly available data to interpret crime patterns within the city of San Francisco.
 
