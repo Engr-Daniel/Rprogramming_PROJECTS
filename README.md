@@ -19,3 +19,14 @@ This project will enhance your skill in :
 - Data Visualization
 - Aggregating with count
 - Thinking with your data
+
+3. ## [RISE AND FALL OF PROGRAMMING LANGUAGES](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/003_Rise%20and%20Fall%20of%20Programming%20Languages)
+
+Analyze the relative popularity of programming languages over time based on Stack Overflow data.
+
+This project will get you familiar with using:
+- readr and dplyr packages
+- mutate() to create new column 
+- filter() with %in%
+- groupby() and summarize() together
+- Data through manipulation and visalization to answer questions.
