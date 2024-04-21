@@ -30,3 +30,15 @@ This project will get you familiar with using:
 - filter() with %in%
 - groupby() and summarize() together
 - Data through manipulation and visalization to answer questions.
+
+4. ## [EXPLORING THE KAGGLE DATA SCIENCE SURVEY](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/004_Exploring%20the%20Kaggle%20Data%20Science%20Survey)
+
+Discover the top tools Kaggle participants use for data science and machine learning.
+
+This projecct will enhance your skill in:
+- How to think with data
+- using mutate(), str_split(), and unnested()
+- using summarize() with count
+- using case_when(), str_detect()
+- using facet_wrap() in visualization
+
