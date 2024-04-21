@@ -42,3 +42,13 @@ This projecct will enhance your skill in:
 - using case_when(), str_detect()
 - using facet_wrap() in visualization
 
+5. ## [HYPOTHESIS TESTING WITH MEN'S AND WOMEN'S SOCCER MATCHES](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/005_Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches)
+
+Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's using Wilcoxon-Mann-Whitney test!
+
+You will learn the following from the project:
+- EDA
+- How to choose hypothesis test
+- How to interpreting hypothesis test result
+
+
