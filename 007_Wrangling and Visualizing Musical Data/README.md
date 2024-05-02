@@ -1,4 +1,5 @@
-WRANGLING AND VISUALIZING MUSICAL DATA
+# WRANGLING AND VISUALIZING MUSICAL DATA
+
 Wrangle and visualize musical data to find common chords and compare the styles of different artists.
 
 ## Project Description
@@ -74,7 +75,7 @@ Use filter() to remove any records in our new data frame where title and next_ti
 - To draw a conclusion about this hypothesis, do we still need to explore more data? TRUE or FALSE? Set more_data_needed to reflect your answer.
 
 
-## INSTRUCTORS:
+#### INSTRUCTOR:
 Kris Shaffer
 
 Data scientist and instructional technology specialist
