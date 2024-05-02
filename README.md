@@ -57,4 +57,9 @@ Use R to make art and create imaginary flowers inspired by nature.
 
 ![flowervariety2_](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/assets/103637488/a4eaef73-740e-4999-afc6-505a75e29221)
 
+7. ## [WRANGLING AND VISUALIZING MUSICAL DATA](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/007_Wrangling%20and%20Visualizing%20Musical%20Data)
+
+Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+
+The project will greatly improve your skill in wrangling data to discover insight and answer questions.
 
