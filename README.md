@@ -51,4 +51,10 @@ You will learn the following from the project:
 - How to choose hypothesis test
 - How to interpreting hypothesis test result
 
+6. ## [PHYLLOTAXIS:DRAW FLOWERS USING MATHEMATICS IN R](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/006_Phyllotaxis%20Draw%20Flowers%20Using%20Mathematics)
+   
+Use R to make art and create imaginary flowers inspired by nature.
+
+![flowervariety2_](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/assets/103637488/a4eaef73-740e-4999-afc6-505a75e29221)
+
 
