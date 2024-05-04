@@ -70,3 +70,8 @@ Analyze data from the hit mobile game, Candy Crush Saga.
 - This project will help you know how data scientist compute the standard error of the difficulty for each level using a given formula and
 add error bars to the difficulty profile plot.
 
+9. ## [IDENTIFYING FLIGHT DURATION TRENDS IN AIR TRAVEL](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/009_Identifying%20Flight%20Duration%20Trends%20in%20Air%20Travel)
+   
+Exploring flight data from NYC using advanced data joining techniques in R.
+
+- Enhance your data manipulation skills by exploring flight durations, frequencies, and destinations using the 'tidyverse' and gain valuable insights into airline operations.
