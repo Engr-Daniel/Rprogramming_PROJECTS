@@ -1,4 +1,4 @@
-1. ## [Dr. Semmelweis and the Importance of Handwashing](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/001_Dr.%20Semmelweis%20and%20the%20Importance%20of%20Handwashing)
+1. ## [DR. SEMMELWEIS AND THE IMPORTANCE OF HANDWASHING](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/001_Dr.%20Semmelweis%20and%20the%20Importance%20of%20Handwashing)
 
 In this project, I reanalyze the data that made Semmelweis discover the importance of handwashing and its impact on the hospital and I answer the question how much did handwashing reduce monthly death rates on average.
 
@@ -61,5 +61,12 @@ Use R to make art and create imaginary flowers inspired by nature.
 
 Wrangle and visualize musical data to find common chords and compare the styles of different artists.
 
-The project will greatly improve your skill in wrangling data to discover insight and answer questions.
+- The project will greatly improve your skill in wrangling data to discover insight and answer questions.
+
+8. ## [LEVEL DIFFICULTY IN CANDY CRUSH SAGA](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/008_Level%20Difficulty%20in%20Candy%20Crush%20Saga)
+
+Analyze data from the hit mobile game, Candy Crush Saga.
+
+- This project will help you know how data scientist compute the standard error of the difficulty for each level using a given formula and
+add error bars to the difficulty profile plot.
 
