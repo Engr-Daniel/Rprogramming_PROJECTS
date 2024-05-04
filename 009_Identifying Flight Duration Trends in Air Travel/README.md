@@ -3,7 +3,7 @@
 Exploring flight data from NYC using advanced data joining techniques in R.
 
 ## Project Description
-Fly into the world of airline data analysis, focusing on flights from NYC in the latter half of 2022. Enhance your data manipulation skills by exploring flight durations, frequencies, and destinations using the 'tidyverse' and gain valuable insights into airline operations.
+Fly into the world of airline data analysis, focusing on flights from NYC in the latter half of 2022. Enhance your data manipulation skills by exploring flight durations, frequencies, and destinations using the `tidyverse` and gain valuable insights into airline operations.
 
 
 ## Project Instructions
@@ -32,4 +32,5 @@ Which airport is the least frequented destination for flights departing from JFK
 
 ## Instructor:
 Dr. Chester Ismay
+
 Educator, Data Scientist, and R/Python Consultant
