@@ -1,4 +1,5 @@
 # LEVEL DIFFICULTY IN CANDY CRUSH SAGA
+![Visual](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/assets/103637488/a5ddef6c-d299-4364-98b9-e0ca5c95af21)
 
 Analyze data from the hit mobile game, Candy Crush Saga.
 
