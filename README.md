@@ -81,3 +81,9 @@ Exploring flight data from NYC using advanced data joining techniques in R.
 Apply your importing and cleaning data and data manipulation skills to explore New York City Airbnb data.
 
 - Practice your skills in importing and cleaning data and data manipulation and report insights to a real estate start-up.
+
+11. ##  [VISUALIZING INEQUALITIES IN LIFE EXPECTANCY](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/011_Visualizing%20Inequalities%20in%20Life%20Expectancy)
+
+Compare life expectancy across countries and genders with ggplot2.
+
+- Answer questions on Life expectancy by manipulating and visualizing United Nations life expectancy data using `ggplot2`.
