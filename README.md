@@ -75,3 +75,9 @@ add error bars to the difficulty profile plot.
 Exploring flight data from NYC using advanced data joining techniques in R.
 
 - Enhance your data manipulation skills by exploring flight durations, frequencies, and destinations using the 'tidyverse' and gain valuable insights into airline operations.
+
+10. ##[EXPLORING AIRBNB MARKET TRENDS](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/010_Exploring%20Airbnb%20Market%20Trends)
+
+Apply your importing and cleaning data and data manipulation skills to explore New York City Airbnb data.
+
+- Practice your skills in importing and cleaning data and data manipulation and report insights to a real estate start-up.
