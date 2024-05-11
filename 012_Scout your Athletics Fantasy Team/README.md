@@ -77,7 +77,6 @@ You will use performance data collated from jumps and throws events in the US fr
 - Complete the vector for `HomeTeam`. Use digits 1-5 to identify which of your three players you want to use.
 - Take a look at the `AwayTeam` vector to see how we're selecting three players' results at random from the `javelin_totals` data frame to be the away team.
 
-
 ## Instructor:
 George Perry
 
