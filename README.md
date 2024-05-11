@@ -87,3 +87,8 @@ Apply your importing and cleaning data and data manipulation skills to explore N
 Compare life expectancy across countries and genders with ggplot2.
 
 - Answer questions on Life expectancy by manipulating and visualizing United Nations life expectancy data using `ggplot2`.
+
+12. ## [SCOUT YOUR ATHLETICS FANTASY TEAM](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/012_Scout%20your%20Athletics%20Fantasy%20Team)
+Analyze athletics data to find new ways to scout and assess jumpers and throwers.
+
+- In this R project, you will use dataframes and the `dplyr` package to find out who you should put on your team, and in doing so become the next "Moneyball" star manager of an athletics team.
