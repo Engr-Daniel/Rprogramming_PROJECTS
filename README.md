@@ -97,3 +97,7 @@ Analyze athletics data to find new ways to scout and assess jumpers and throwers
 Apply your skills from "Working with Dates and Times in R" to breathalyzer data from Ames, Iowa.
 
 - You will manipulate the dates and times in the breath alcohol data to answer questions such as, `"What day has the most tests?"`, `"at which hour of the day are breath alcohol tests most common?"`, and `"are blood alcohol content (BAC) results higher on days when Iowa State University's football team plays?"`
+
+14. ## [IMPORTING AND CLEANING DATA](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/014_Importing%20and%20Cleaning%20Data)
+Apply your importing and data cleaning skills to real-world soccer
+- Use your data import and cleaning skills to dig through the dirty data, clean it up, and present your boss with polished graphs.
