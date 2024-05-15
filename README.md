@@ -101,3 +101,7 @@ Apply your skills from "Working with Dates and Times in R" to breathalyzer data 
 14. ## [IMPORTING AND CLEANING DATA](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/014_Importing%20and%20Cleaning%20Data)
 Apply your importing and data cleaning skills to real-world soccer
 - Use your data import and cleaning skills to dig through the dirty data, clean it up, and present your boss with polished graphs.
+
+15. ## [DECIPHERING CUSTOMER BUYING CYCLES IN GROCERY STORES](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/015_Deciphering%20Customer%20Buying%20Cycles%20in%20Grocery%20Stores)
+Analyze grocery store data to identify shopping patterns and preferences.
+- Explore customer behavior by examining purchase times, quantities, and product preferences. Utilize the `tidyverse` for data manipulation and uncover trends in shopping habits.
