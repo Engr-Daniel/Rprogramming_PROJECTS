@@ -109,3 +109,9 @@ Analyze grocery store data to identify shopping patterns and preferences.
 16. ## [WHAT IS YOUR HEART BEAT TELLING YOU](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/016_What%20is%20Your%20Heart%20Rate%20Telling%20You)
 Examine the relationship between heart rate and heart disease using multiple logistic regression.
 -  This project uses the Cleveland heart disease dataset to examine the relationship between the maximum heart rate one can achieve during exercise and the likelihood of developing heart disease. Using multiple logistic regression, you will handle the confounding effects of age and gender.
+
+17. ## [MODELING CAR INSURANCE CLAIM OUTCOMES](https://github.com/Engr-Daniel/Rprogramming_PROJECTS/tree/master/017_Modeling%20Car%20Insurance%20Claim%20Outcomes)
+Clean customer data and use logistic regression to predict whether people will make a claim on their car insurance!
+- Investigate and clean the data, so that there are no missing values and remove the "id" column.
+- Find the feature with the best predictive performance for a car insurance claim ("outcome") by creating simple Logistic Regression models (each with a single feature) and assessing their accuracy.
+- Create a data frame called best_feature_df, containing columns named "best_feature" and "best_accuracy" with the name of the feature with the highest accuracy, and the respective accuracy score.
