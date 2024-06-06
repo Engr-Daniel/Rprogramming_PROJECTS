@@ -10,7 +10,6 @@ Insurance companies invest a lot of time and money into optimizing their pricing
 - Create a data frame called best_feature_df, containing columns named "best_feature" and "best_accuracy" with the name of the feature with the highest accuracy, and the respective accuracy score.
 
 ## DATA
-## The dataset
 
 | Column | Description |
 |--------|-------------|
